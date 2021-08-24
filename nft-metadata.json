@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "gender": "Male",
+    "attributes": [0, 4, 9, 14, 16, 20, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image0.png"
+  },
+  {
+    "id": 1,
+    "gender": "Male",
+    "attributes": [3, 6, 10, 14, 17, 20, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image1.png"
+  },
+  {
+    "id": 2,
+    "gender": "Female",
+    "attributes": [2, 4, 10, 12, 18, 20, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image2.png"
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "attributes": [3, 7, 10, 14, 19, 20, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image3.png"
+  },
+  {
+    "id": 4,
+    "gender": "Female",
+    "attributes": [1, 6, 9, 15, 19, 20, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image4.png"
+  },
+  {
+    "id": 5,
+    "gender": "Female",
+    "attributes": [3, 7, 11, 14, 16, 21, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image5.png"
+  },
+  {
+    "id": 6,
+    "gender": "Female",
+    "attributes": [1, 4, 11, 14, 19, 21, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image6.png"
+  },
+  {
+    "id": 7,
+    "gender": "Female",
+    "attributes": [1, 7, 9, 13, 16, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image7.png"
+  },
+  {
+    "id": 8,
+    "gender": "Male",
+    "attributes": [2, 4, 11, 15, 16, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image8.png"
+  },
+  {
+    "id": 9,
+    "gender": "Male",
+    "attributes": [3, 6, 9, 14, 17, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image9.png"
+  },
+  {
+    "id": 10,
+    "gender": "Female",
+    "attributes": [3, 6, 10, 12, 18, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image10.png"
+  },
+  {
+    "id": 11,
+    "gender": "Male",
+    "attributes": [1, 7, 11, 12, 19, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image11.png"
+  },
+  {
+    "id": 12,
+    "gender": "Male",
+    "attributes": [3, 5, 10, 14, 19, 22, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image12.png"
+  },
+  {
+    "id": 13,
+    "gender": "Female",
+    "attributes": [1, 7, 10, 15, 16, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image13.png"
+  },
+  {
+    "id": 14,
+    "gender": "Male",
+    "attributes": [3, 4, 11, 13, 18, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image14.png"
+  },
+  {
+    "id": 15,
+    "gender": "Female",
+    "attributes": [1, 7, 8, 12, 19, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image15.png"
+  },
+  {
+    "id": 16,
+    "gender": "Female",
+    "attributes": [2, 7, 11, 13, 19, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image16.png"
+  },
+  {
+    "id": 17,
+    "gender": "Male",
+    "attributes": [3, 4, 8, 14, 19, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image17.png"
+  },
+  {
+    "id": 18,
+    "gender": "Male",
+    "attributes": [3, 6, 11, 14, 19, 23, 24, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image18.png"
+  },
+  {
+    "id": 19,
+    "gender": "Male",
+    "attributes": [3, 5, 8, 13, 18, 20, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image19.png"
+  },
+  {
+    "id": 20,
+    "gender": "Male",
+    "attributes": [1, 4, 9, 15, 18, 20, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image20.png"
+  },
+  {
+    "id": 21,
+    "gender": "Female",
+    "attributes": [2, 5, 10, 15, 18, 20, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image21.png"
+  },
+  {
+    "id": 22,
+    "gender": "Female",
+    "attributes": [0, 7, 8, 15, 19, 20, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image22.png"
+  },
+  {
+    "id": 23,
+    "gender": "Male",
+    "attributes": [3, 7, 10, 14, 17, 21, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image23.png"
+  },
+  {
+    "id": 24,
+    "gender": "Male",
+    "attributes": [3, 4, 10, 15, 19, 21, 25, 32],
+    "image": "https://polygoonz-test.s3.filebase.com/polygoonz/image24.png"
+  }
+]
