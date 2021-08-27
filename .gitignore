@@ -40,4 +40,5 @@ node_modules
 
 #Hardhat files
 cache
-artifacts
+artifacts/*
+!artifacts/contracts
